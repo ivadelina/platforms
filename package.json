@@ -1,0 +1,19 @@
+{
+  "name": "@ivadelina/platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivadelina/platforms.git"
+  },
+  "author": "ivadelina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivadelina/platforms/issues"
+  },
+  "homepage": "https://github.com/ivadelina/platforms#readme"
+}
